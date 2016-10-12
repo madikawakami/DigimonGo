@@ -1,0 +1,56 @@
+header {
+	color: orange;
+	border-style:ridge;
+}
+header li {
+	color: blue;
+}
+
+}
+.container {
+	color: black;
+	border-style: ridge;
+	border-radius:5px;
+
+}
+
+.one{
+	color: blue;
+	border-style: ridge;
+	border-radius: 5px;
+	width: 250px;
+	height:200px;
+	float: left;
+	text-align: center;
+}
+.two {
+	color: blue;
+	border-style: ridge;
+	border-radius: 5px;
+	width: 250px;
+	height: 200px;
+	float: 10px left;
+	text-align: center;
+}
+.three {
+	color: blue;
+	border-style: ridge;
+	border-radius: 5px;
+	width: 250px;
+	height:200px;
+	float: right;
+	text-align: center;
+}
+div p {
+	color:black;
+}
+div li {
+	color: black;
+}
+footer {
+	border: solid;
+	background-color: black;
+    color:white;
+    text-align: center;
+    clear: left;
+}
